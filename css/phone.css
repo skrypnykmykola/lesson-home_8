@@ -1,0 +1,105 @@
+  
+
+   .header{
+      width: 200%;
+      height: 100%;
+   flex-direction: column;
+            
+   }
+
+ 
+
+   .phill{
+      background-position: center;
+   }
+
+   .text-rec{
+      margin-right: 30px;
+   }
+
+   .text-recTop{
+      flex-direction: column;
+   }
+
+   .textrect4{
+      width: 290px;
+
+   }
+
+   .lineBlock{
+      width: 200px;
+   }
+
+   .container {
+    padding: 5px;
+   }
+
+   .bodyTop{
+   width: 200%;
+   flex-direction: column;
+   gap: 10px; 
+   }
+
+   .bodyimglef1{
+      background-position: center;
+   }
+
+   .bodyimgriht{
+      background-position: center;
+   }
+
+   .bodyFuter_top{
+   flex-direction: column;
+   width: 300%;
+   flex-wrap: nowrap;
+   gap: 10px; 
+   }
+
+
+   .bdn1 {
+      height: 80px;
+    margin-top: 730px;
+   }
+
+   .centrhead{
+     flex-direction: column; 
+     width: 200%;
+   }
+
+   .centrnumber{
+      padding: 10px;
+   }
+
+
+   .bdn2{
+      margin: 680px 0px 25px;
+   }
+
+
+
+   .centrbuttomTop{
+     flex-direction: column; 
+     width: 300%;
+     gap: 10px;
+   }
+
+   .futer{
+      margin-top: 30px;
+   }
+
+   .futerTop{
+      flex-direction: column;
+      width: 300%;
+      gap:10px
+   }
+
+   .bdn3{
+     
+      margin:25px -295px 0px;
+   }
+
+   .buttomcentr{
+      margin-top: 50px;
+   }
+
+
